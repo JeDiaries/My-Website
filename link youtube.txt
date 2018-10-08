@@ -1,0 +1,19 @@
+https://www.youtube.com/channel/UC6hv6RmOKvED7osczSGOxWQ?view_as=subscriber
+https://ched.gov.ph/notre-dame-rvm-college-cotabato-profile/
+
+Margin - Individual Sides
+CSS has properties for specifying the margin for each side of an element:
+
+margin-top
+margin-right
+margin-bottom
+margin-left
+
+margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
